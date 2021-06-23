@@ -2,6 +2,9 @@
 
 * [Introduction](README.md)
 * [F.A.Q.](frequently-asked-questions.md)
+* [Installation](installation/README.md)
+  * [Installation - Linux](installation/installation-linux.md)
+  * [Installation - Windows](installation/installation-windows.md)
 
 ## USER GUIDE
 
