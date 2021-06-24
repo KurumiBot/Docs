@@ -7,7 +7,7 @@
 
 ### A multi-function, multi-language, configurable and lightweight bot.
 
- Overview • [Installation](https://docs.kurumi.live/installation) • [Documentation](https://docs.kurumi.live/) • [License]()
+ [Overview](https://docs.kurumi.live/#overview) • [Installation](https://docs.kurumi.live/installation) • [Documentation](https://docs.kurumi.live/) • [License](https://docs.kurumi.live/#license)
 
 ## Overview
 
