@@ -17,8 +17,9 @@
 * [Mastery Rank](rpg-guide/mastery-rank.md)
 * [Equipment](rpg-guide/equipment.md)
 * [Gems](rpg-guide/gems.md)
+* [Dragons](rpg-guide/dragons.md)
+* [Mounts](rpg-guide/mounts.md)
 * [Badges](rpg-guide/badges.md)
-* [Pets](rpg-guide/pets.md)
 * [Marriage](rpg-guide/marriage.md)
 * [Weekly Events](rpg-guide/weekly-events.md)
 
